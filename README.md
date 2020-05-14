@@ -1,4 +1,5 @@
 [![GoDoc](https://godoc.org/github.com/luna-duclos/instrumentedsql?status.svg)](https://godoc.org/github.com/luna-duclos/instrumentedsql)
+[![Build Status](https://travis-ci.org/luna-duclos/instrumentedsql.svg?branch=master)](https://travis-ci.org/luna-duclos/instrumentedsql)
 
 # instrumentedsql
 A sql driver that will wrap any other driver and log/trace all its calls
